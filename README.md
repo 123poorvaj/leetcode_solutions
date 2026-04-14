@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0012-integer-to-roman) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
