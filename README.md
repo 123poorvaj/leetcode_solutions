@@ -16,8 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0012-integer-to-roman) |
+| [0344-reverse-string](https://github.com/123poorvaj/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0175-combine-two-tables) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/123poorvaj/leetcode_solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
