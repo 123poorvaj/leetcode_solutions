@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0012-integer-to-roman) |
+| [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0012-integer-to-roman) |
+| [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/123poorvaj/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Database
 |  |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
