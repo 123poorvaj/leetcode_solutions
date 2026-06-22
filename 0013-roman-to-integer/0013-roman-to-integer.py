@@ -10,13 +10,12 @@ class Solution:
             "M": 1000
         }
 
-        total = 0
-
-        for i in range(len(s) - 1):
-            if disc[s[i]] < disc[s[i + 1]]:
-                total -= disc[s[i]]
+        n=len(s)
+        total=disc[s[n-1]]
+        for i in range(n-1,0,-1):
+            j=i-1
+            if disc[s[j]]<disc[s[i]]:
+                total-=disc[s[j]]
             else:
-                total += disc[s[i]]
-
-        total += disc[s[-1]]
+                total+=disc[s[j]]
         return total
