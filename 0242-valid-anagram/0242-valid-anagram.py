@@ -1,18 +1,10 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        found =True
+        a=sorted(s)
+        b=sorted(t)
         if len(s)!=len(t):
-            found=False
-            return found
-       
-        for i in s:
-            if s.count(i)!=t.count(i):
-                found=False
-                break 
+            return False
 
-
-
-        
-        return found
+        return a==b
                 
                 
