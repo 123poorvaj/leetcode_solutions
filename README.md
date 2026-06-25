@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/123poorvaj/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/1470-shuffle-the-array) |
@@ -60,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
