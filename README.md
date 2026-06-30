@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
+| [0628-maximum-product-of-three-numbers](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1470-shuffle-the-array](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
