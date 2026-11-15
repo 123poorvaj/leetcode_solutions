@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
