@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
