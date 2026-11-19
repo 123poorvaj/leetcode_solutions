@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/123poorvaj/https-github.com-123poorvaj-DSA-problem-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
